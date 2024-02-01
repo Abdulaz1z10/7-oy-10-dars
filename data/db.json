@@ -1,0 +1,116 @@
+{
+  "nav_text" : [
+    {
+      "title1" : "Marketplace",
+      "title2" : "Rankings",
+      "title3" : "Connect a wallet ",
+      "title4" : "Sign Up",
+      "title": "Discover digital art & Collect NFTs",
+      "desc": "NFT marketplace UI created with Anima for Figma. Collect, buy and sell art from more than 20k NFT artists.",
+      "nav_text2" : [
+        {
+          "button" : "Get started",
+          "num1" : "240k+",
+          "num_text": "Total sale",
+          "num2" : "100k+",
+          "num_text2" : "Auctions",
+          "num_text3" : "Artists"
+        }
+      ]
+    }
+  ],
+  "image" : [
+    {
+        "img1": "https://png.pngtree.com/background/20230512/original/pngtree-nature-background-sunset-wallpaer-with-beautiful-flower-farms-picture-image_2503007.jpg",
+        "img2": "https://static.vecteezy.com/system/resources/previews/022/653/879/non_2x/fantasy-island-with-waterfalls-3d-illustration-elements-of-this-image-furnished-by-nasa-generative-ai-free-photo.jpg",
+        "walk": "Space walking",
+        "anime" : "Animekid"
+    }
+  ],
+  "collection" : [
+    {
+      "trend" : "Trending Collection",
+      "mini_trend" : " Checkout our weekly updated trending collection.",
+      "img_coll" : "https://s3-alpha-sig.figma.com/img/a792/ddc0/c4e1193ffd08cf4918e6f696bbc8d8fe?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mrDuBh23jD6tV7~C2uZhEuQYAtQa46d22EIdr6fyrQZbHKARkiHOYJ-kkFa8rfZL5rROdUMr6PM4frsqniXvQ0slI-YbzjIz-RiFd4L3Ak1C2V9edblkVtEGItyrXsgEi7QC9B40SQ3rsYp4aILLpxO5Sth-KxgXiEg4Tehi4qT3dvzK0mu8xN26TTdb946a5yu3M91OhauACIFZTdfCXefKihW0onagv~mG-NT6K4ciqy84b-4TMDCNyEcoKkb~R~0XPK1HkC0ngf-kIG82woZ-86FD2O5rA3VnakSas08wl3eA3bCJ9laFyHU5fy5t2AU0Haj3k2AKxcv8Si-GFg__",
+      "img_coll2" : "https://s3-alpha-sig.figma.com/img/4eec/8eba/54b2d345dc1480b247b05bb6f0d1f429?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FBJJ6Zsbxf-PFe3FE4s4h1TLXf9D-LAtXqOF7CrVj5WnIW9U66T9FDA85304hjH7elUzXWAmjwMkuskdHZSV5xUW8~-1uqMvlNg~9SjD6OBAWp4fETMTlz8gO3SlbFwTCvH4f4EIwbXNSEIUOMyOvTfrQo7kpicjIOb9vCd13rm3sk3GvGTZBOCfDbYQPDyxZJDap4nJlEgOeTrf7uWUgmmO0z-~ddHzX4asHiCIhNy1qGeqDRcPneGgXCprJpZSbkscqC41WMJAfSTwIOpjIdGCNwDjIfTPMqKpWWrBnfhyD9LsoatDuHV~Fzi5NjfFUl~kqZL759h3h4Wc6Nzgnw__",
+      "img_coll3" : "https://s3-alpha-sig.figma.com/img/7e55/1754/df2c85a307298720a7483609e93b5fef?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bQWX-bPSLHzYetreS0BBEC~Ow4AbSHKki4JV3Bq52QIQtMPrQTitsbmxmHqn9JkKQCO2ddVzhcR9wJCnySkOvOGftEMp0oztnwMp0UPt8hLt8NteoNBv8riaipK5ws8pwAWVGRhbUyiJfomfGXVKAlcbqB885uoljnlr4kyEJlVhEMWoBdocYsrKj7tQcuk0Hui9z44A-J-G1wM6OXwT4yjl3UeC3eEL2gzyu5o-0u4E2fShq8qbz8tNTR4ZUUUWJE9GTAVPc6QZIB69q7sY1oYdY3chXseqWHjralDqGpFO67ZhTWMF7fbThnzkrS8cLKvqgRCuI6ugr-CxocTCfw__",
+      "img_num" : "1025+",
+      "trend_text" : "DSGN Animals",
+      "trend_text2" : "MrFox",
+      "img_coll4" : "https://s3-alpha-sig.figma.com/img/5f29/0aef/1589d4b7ed50db6bf310ffa8392539ea?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SgydmdsTeroHmy1i0xZXL0DcZ9E15FkBnOQqLOV2XjPaLy1aIyWG2Pq74jpncIabmgGEZebNTXiHyh8RlSnImW7sZL4KEveuKgr8mZfBXgfQZXP2DDTIyUAvvE9c8sx1VUK2GJ9EY7PEYZLPWq6acji0qVA16gOMhhHV9j53CGA2Rk4VlQe8T5DnH1N-PApPOxzrhvGwyLUKBkVX-e2dpDLeworkP8~z~1DFYUOdwi6TT0gdEbq0JTBLLruwAmMq4188oWPnEqYg5G-jRkiK4karzbdkKiZWX31j0SL5f6h~CaYQjNN4NkuCAcUMIfm-P1-Nr5aVSYtpEfq7raUEeA__",
+      "img_coll5" : "https://s3-alpha-sig.figma.com/img/5f29/0aef/1589d4b7ed50db6bf310ffa8392539ea?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SgydmdsTeroHmy1i0xZXL0DcZ9E15FkBnOQqLOV2XjPaLy1aIyWG2Pq74jpncIabmgGEZebNTXiHyh8RlSnImW7sZL4KEveuKgr8mZfBXgfQZXP2DDTIyUAvvE9c8sx1VUK2GJ9EY7PEYZLPWq6acji0qVA16gOMhhHV9j53CGA2Rk4VlQe8T5DnH1N-PApPOxzrhvGwyLUKBkVX-e2dpDLeworkP8~z~1DFYUOdwi6TT0gdEbq0JTBLLruwAmMq4188oWPnEqYg5G-jRkiK4karzbdkKiZWX31j0SL5f6h~CaYQjNN4NkuCAcUMIfm-P1-Nr5aVSYtpEfq7raUEeA__"
+    }
+  ],
+  "creators" : [
+    {
+      "top": "Top Creators",
+      "mini_top" : "Checkout Top Rated Creators on the NFT Marketplace",
+      "top_button" : "View Rankings",
+      "top_img" : "https://s3-alpha-sig.figma.com/img/341a/ecac/80c1e6f6c1ae447f54bae66d368c972b?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OtCyEzljRAVW~JKuO2sQKEql5LsrWkXiN5R-P0udWdChfSMoOvHPzOTh0hhGMx9LgG-YRdVl2qPUd2Vem8dXa9T-JjisjJgvc7f53BL3QLon8AAd611EpWOgdjnHvpJ3oTzt2cr8fmqqBlaLtcvOSr5BQ4jYaaxXAjwRu7K4Ja37jW3IasjABv35Ryj4cxVSoRwn3rtRZjJHcYjTJOL8P~LGLK~JsCSikiNCbKXavq-CRuyi-Axgp0UBzvjGkx1wKffn5qzge00jdgg14Ngxmk5y7ab8RfDeb0TS-QXmEk9F1ivTfMjSLi6HrKMlurnTJKazaeDpBP5YjMeQZKo9hQ__",
+      "top_name" : "Keepitreal",
+      "total_sale" : "Total Sales :",
+      "sale_num" : "34.53 ETH"
+    }
+  ],
+  "categories" : [
+    {
+      "text_cat1" : "Browse Categories",
+      "text_cat2": "Collectibles"
+    }
+  ],
+  "discover" : [
+    {
+      "text_dis" : "Discover More NFTs",
+      "text_dis2" : "Explore New Trending NFTs",
+      "button_dis" : "See all",
+      "img_dis" : "https://s3-alpha-sig.figma.com/img/1227/9881/7c4f8936a4246f91674d47fe40c14d63?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EHNwbeh-2032ezRw8W8~DVicjwr7PSfQZtuLeJwg7wOodsyonD18p28pR34BPTmg1UfaFmn7gniOzSyVsILJapSaf-AnvBDZUbexPiCrMAVsAzPjbTdtdy4-kewrvKaiKXkurZ9Jdsf8AHKlqi0aIoob26CKZ8a6WlCblZ6BjgDkcvQo-kURmvCUuYeGFer415vEn~RsKPfF3TY3nzMPHCFDP4R5SX0kS0ZQHVDFy~ODJLeqi9oMCwM2KkDbLkbbTwHbPDfeViqJZXbEvcWoA4f8TePV8Ex9bTYzxQsHDtYte64Uj2AzkbbhWz2A8QmFaZlIZH9A76-3iZahYKyg-w__",
+      "galaxy" : "Distant galaxy",
+      "galaxy_img" : "https://s3-alpha-sig.figma.com/img/a22b/2d00/bbd0f89ae89f4eae28a0eb19cb2e497a?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UlqoTKWPOFyIo2syIKpOBS6o-N1QNjs77MYnE-6Org6YrPiEtM6bNwW58GqyfstWTN2yh-KyBsZnDn8G~SrFkm~bTBtAwPegv5ok8x4IEHngLLSrEVyuaT7m7ZGqEj7FvaaPMCLrTWzSniKTDwVOxtbSSeXZQZBAY9OlHaBwR64ObWfoAS4LmwfhRoxatYp2C6xTOtxgniirVwrHg7asoyVvUDD-nrHS0IlwzSndOvrC3f3883jkn~414la1NK6yK9I1~0A5WrLr-GizgKufkKMLwec~~x2Tt9ZqmetqbAgyOajFUmQh8HXvv0HkeXZ2DcZjXXnYU-tICIaidj6bAQ__",
+      "moon" : "MoonDancer",
+      "price": "price",
+      "price_num" : "1.63 ETH",
+      "high" : "highest Bid",
+      "high_num" : "0.33 wETH"
+    }
+  ],
+  "mashroom":[
+    {
+      "img_mash2" : "https://s3-alpha-sig.figma.com/img/1319/72c5/5d373813d19d71797627818ee707c601?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gpEcmFNmzjCT8SJcR2D53alUSwbkovriuDSLsI-qOz0ru2Rl0XrUQB4z97h6VxMoHyIBposGsV9GujF5CODzw5LvdgRD2WiNglrgZodlUz4ai~~FqAPNwfKkG8~q4eTEXE3t2h1DX77qNgmQWArcGYqz0hBoJmMpAnoOAu2W8dIcnMvI75yEGY~wV8XNCnyxQU8mgSAGr5TwsqQZUg8CBo1YLC~ej7bd28fXwzCEnwcqGxHt9F7GbBPIfylp9K7s1eCafptA~Ne7uUr8JqT3MQgdnQHQMXe69Ui~ebLK5htkp4YqTeUPKAewzdQS~jKRk6PTBIfyH5EGESv8QJ1iuw__",
+      "title_mash" : "Shroomie",
+      "title_big": "Magic Mashroom",
+      "button_mash" : "See NFT",
+      "auction" : "Auction ends in:",
+      "hours" : "59 : 59 : 59",
+      "hours1" : "Hours",
+      "minutes" : "Minutes",
+      "seconds1" : "Seconds" 
+    }
+  ],
+
+  "works" : [
+    {
+      "work" : " How it Works",
+      "mini_work1" : "Find out  how to Get started",
+      "work_img" : "https://s3-alpha-sig.figma.com/img/9f1a/3ec9/5772f9d568933f15578613e18c5adb73?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QW6V0WfLInL1i90IAOfvEGkx6-lPmRjCbTfIuUk8vp6VcFTp~sXdR-zp8v2XokATMhpRGp9RyLUDqmYM3Enf25Qct-~23GuiERM3haM4Enq4FBQ1PNUKyR-n~k4AB3oSXMMtD3t9K8Qs1wdFATb52XVZAUhXekiuTxFu1bAmsVWV7Mt2K5pq2aqAgVzORhzxQk7LMNgGmB5ZQNzBtIddu4Ng06Fe31k53nrdSCVBL4xPy1cd5yHxqbuFHMO7hKl~ABfH8YDO8urAWgBnmdsBQ355tIRmp26cZ0EKLuNP2g~EVKXEn9zHmvPs-gmgqT9VX9Dp-MpaIHwfg1QlBFoaKA__",
+      "work_text" : "Setup wour wallet",
+      "work_text3" : "Set up your wallet of choice. Connect it to the Animarket by clicking the wallet icon in the top right corner.",
+      "work_img_text" : "Join our Weekly Digest",
+      "work_img_text2" :  "Get exclusive promotions & updates straight to your inbox.",
+      "email" : "Enter your email here",
+      "button_work2" : "subscribe"
+    }
+  ],
+  "footer": [
+    {
+      "nft" : "NFT Marketplace",
+      "mini_nft" : "NFT marketplace UI created with Anima for Figma.",
+      "join" : " Join our community",
+      "explore" : "Explore",
+      "market" : "Marketplace",
+      "rank" : " Rankings",
+      "connect" : "Connect a wallet",
+      "digest" : "Join our weekly digest",
+      "get" : "Get exclusive promotions & updates straight to your inbox."
+    }
+  ]
+}
